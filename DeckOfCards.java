@@ -1,5 +1,5 @@
 /*	Program Name:	DeckOfCards.java
-	Programmer:		Kevin Walsh
+	Programmer:		Rafael Mejia
 	Date:			11/30/21
 
 	This program will define a deck of cards.  Both a FULL DECK and
