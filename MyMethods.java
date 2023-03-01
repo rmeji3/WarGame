@@ -1,5 +1,5 @@
 /*	Program Name:	MyMethods.java
-	Programmer:		Kevin Walsh
+	Programmer:		Rafael Mejia
 	Date:			9/9/21
 
 	This is software that we will add to throuhgout the year to make our lives
