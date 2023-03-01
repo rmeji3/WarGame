@@ -1,5 +1,5 @@
 /*	ProgramName:	PlayingCard.java
-	Programmer:		Kevin Walsh
+	Programmer:		Rafael Mejia
 	Date:			11/23/21
 
 	This class will define a playing card that will later be used in
